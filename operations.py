@@ -1,5 +1,6 @@
 # Get user input
-var = input("Please enter a value: ")
+
+var = input("Please enter a value:")
 
 # Print the value in uppercase
 print("Upper case:", var.upper())
